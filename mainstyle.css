@@ -82,6 +82,12 @@ nav ul li a {
 
 #img-4 {
     width: 100%;
+    height: 800px;
+    object-fit: cover;
+}
+
+#aboutus {
+    margin-top: 20%;
 }
 
 #img-5 {
