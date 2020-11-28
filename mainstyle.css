@@ -22,3 +22,21 @@ nav ul li {
     margin: 0% 2% 2% 2%;
     font-size: 105%;
 }
+
+#img-2 {
+    margin: 1% 0%;
+    width: 100%;
+    height: 1000px;
+    object-fit: cover;
+}
+
+
+.maintitle {
+    width: 40%;
+    margin: 0% 40% 0% 20%;
+    font-size: 200%;
+}
+
+.maintitle #linkOurProject {
+    color: #8cc63e;
+}
