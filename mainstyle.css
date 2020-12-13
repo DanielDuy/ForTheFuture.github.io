@@ -27,6 +27,10 @@ nav ul {
     float: right;
 }
   
+#img-1 {
+    height: 5vh;
+}
+
 nav ul li a {
     display: block;
     color: white;
