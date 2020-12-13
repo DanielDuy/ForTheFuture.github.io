@@ -44,3 +44,51 @@ nav ul li a {
 nav ul li a:hover {
     background-color: #bda656;
 }
+
+
+
+
+
+
+.intro {
+    height: 70vh;
+    background-color: #38a372;
+}
+
+.intro-content {
+    height: 85vh;
+    width: 70vw;
+    margin: 0 auto;
+    background-color: #e2ded2;
+    border-radius: 2%;
+}
+
+.intro article {
+    max-width: 45%;
+    margin-left: 5%;
+    margin-top: 15%;
+    float: left;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.intro article h1 {
+    font-size: 4vw;
+    color: #348c65;
+}
+
+.intro article p {
+    font-size: 3vh;
+    color: darkgrey;
+}
+
+#img-2 {
+    width: 45%;
+    margin-right: 5%;
+    margin-top: 15%;
+    float: right;
+    border-radius: 5%;
+}
+
+
+
+
