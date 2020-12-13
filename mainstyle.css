@@ -18,7 +18,7 @@ nav ul {
     top: 0;
     width: 100%;
 }
-  
+
 .navigation {
     float: left;
 }
@@ -28,7 +28,8 @@ nav ul {
 }
   
 #img-1 {
-    height: 5vh;
+    height: 4vh;
+    float: left;
 }
 
 nav ul li a {
