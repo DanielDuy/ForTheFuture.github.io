@@ -78,7 +78,7 @@ nav ul li a:hover {
 
 .intro article p {
     font-size: 3vh;
-    color: darkgrey;
+    color: rgb(99, 99, 99);
 }
 
 #img-2 {
@@ -89,6 +89,49 @@ nav ul li a:hover {
     border-radius: 5%;
 }
 
+.empty-forbluebackground {
+    background-color: #264e66;
+    height: 95vh
+}
 
 
 
+
+
+
+
+.projects {
+    background-color: #264e66;
+    height: 60vh;
+}
+
+.projects h1 {
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 1%;
+    font-family: 'Quicksand', sans-serif;
+    color: #e2ded2;
+    font-size: 4vh;
+}
+
+.project-kolonner {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.kolonne img {
+    width: 23%;
+    float: left;
+    margin: 1%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 5%;
+
+    opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+.kolonne img:hover {
+    opacity: .5;
+}
