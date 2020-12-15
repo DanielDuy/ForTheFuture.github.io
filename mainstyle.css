@@ -57,7 +57,7 @@ nav ul li a:hover {
 
 .intro-content {
     height: 85vh;
-    width: 70vw;
+    width: 70%;
     margin: 0 auto;
     background-color: #e2ded2;
     border-radius: 2%;
@@ -115,18 +115,18 @@ nav ul li a:hover {
 }
 
 .project-kolonner {
-    width: 80%;
+    width: 70%;
     margin: 0 auto;
+    background-color: white;
 }
 
 .kolonne img {
-    width: 23%;
+    width: 24%;
     float: left;
-    margin: 1%;
+    margin: 1% 0.5%;
     height: 400px;
     object-fit: cover;
     border-radius: 5%;
-
     opacity: 1;
 	-webkit-transition: .3s ease-in-out;
 	transition: .3s ease-in-out;
