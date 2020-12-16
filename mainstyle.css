@@ -214,7 +214,25 @@ nav ul li a:hover {
 
 
 
-
 .getinvolved {
-    
+    padding-top: 5vh;
+    background-color: #e2ded2;
+    height: 50vh;
+}
+
+#Title-GetInvolved {
+    width: 100%;
+    text-align: center;
+    font-size: 4vh;
+}
+
+.rad1, .rad2 {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.rad1-kolonne1, .rad1-kolonne2, .rad2-kolonne1, .rad2-kolonne2 {
+    color: purple;
+    width: 50%;
+    float: left;
 }
