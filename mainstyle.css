@@ -46,7 +46,7 @@ nav ul li a {
 }
   
 nav ul li a:hover {
-    background-color: #164b2d;
+    background-color: #dac065;
 }
 
 
@@ -268,4 +268,18 @@ nav ul li a:hover {
     float: left;
     object-fit: cover;
     margin-left: 5%;
+}
+
+
+
+
+
+footer {
+    background-color: #38a372;
+    height: 20vh;
+    padding-top: 1%;
+}
+
+footer .info {
+    width: 100%;
 }
