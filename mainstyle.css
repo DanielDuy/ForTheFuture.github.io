@@ -46,7 +46,7 @@ nav ul li a {
 }
   
 nav ul li a:hover {
-    background-color: #bda656;
+    background-color: #164b2d;
 }
 
 
@@ -134,7 +134,7 @@ nav ul li a:hover {
 }
 
 .kolonne1 {
-    background-image: url(images/OurProjcets-1.jpg);
+    background-image: url(images/OurProjects/OurProjcets-1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -151,7 +151,7 @@ nav ul li a:hover {
 }
 
 .kolonne2 {
-    background-image: url(images/OurProjcets-2.jpg);
+    background-image: url(images/OurProjects/OurProjcets-2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -168,7 +168,7 @@ nav ul li a:hover {
 }
 
 .kolonne3 {
-    background-image: url(images/OurProjcets-3.jpg);
+    background-image: url(images/OurProjects/OurProjcets-3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -185,7 +185,7 @@ nav ul li a:hover {
 }
 
 .kolonne4 {
-    background-image: url(images/OurProjcets-4.jpg);
+    background-image: url(images/OurProjects/OurProjcets-4.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 24%;
@@ -249,6 +249,10 @@ nav ul li a:hover {
     width: 70%;
     float: left;
     margin-left: 5%;
+}
+
+.rad1-kolonne1 article h2, .rad2-kolonne1 article h2, .rad1-kolonne2 article h2, .rad2-kolonne2 article h2 {
+    color: #e26958;
 }
 
 #getinvolved-img1, #getinvolved-img3 {
