@@ -217,7 +217,7 @@ nav ul li a:hover {
 .getinvolved {
     padding-top: 5vh;
     background-color: #e2ded2;
-    height: 50vh;
+    height: 60vh;
 }
 
 #Title-GetInvolved {
@@ -231,8 +231,37 @@ nav ul li a:hover {
     margin: 0 auto;
 }
 
-.rad1-kolonne1, .rad1-kolonne2, .rad2-kolonne1, .rad2-kolonne2 {
-    color: purple;
+.rad1-kolonne1, .rad1-kolonne2, .rad2-kolonne1, .rad2-kolonne2 {    
     width: 50%;
     float: left;
+    height: 25vh;
+}
+
+
+.rad1-kolonne1 article, .rad2-kolonne1 article {    
+    width: 70%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.rad1-kolonne2 article, .rad2-kolonne2 article {
+    width: 70%;
+    float: left;
+    margin-left: 5%;
+}
+
+#getinvolved-img1, #getinvolved-img3 {
+    width: 20%;
+    height: 10vw;
+    float: left;
+    object-fit: cover;
+}
+
+#getinvolved-img2, #getinvolved-img4 {
+    width: 20%;
+    height: 10vw;
+    float: left;
+    object-fit: cover;
+    margin-left: 5%;
 }
